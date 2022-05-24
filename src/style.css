@@ -10,3 +10,9 @@ html, body, #root {
 label {
     display:block;
 }
+
+nav {
+    width: 100%;
+    display: flex;
+    
+}
