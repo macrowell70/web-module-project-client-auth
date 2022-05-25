@@ -18,8 +18,6 @@ const FriendsList = () => {
         .catch(err => console.log(err))
     }, [])
 
-    console.log(friendsState)
-
     return (
         <div className="friends-list" >
             <h1>Friends List</h1>
